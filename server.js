@@ -1,7 +1,11 @@
 const express = require('express');
 const app = express();
 
-const env = require('dotenv');
+const dotenv = require('dotenv');
+// const mongoInfo = process.env.MONGO_INFO;
+// let url = mongoInfo
+
+dotenv.config();
 
 const bodyParser = require('body-parser');
 const port = process.env.PORT || 4001;
@@ -16,8 +20,6 @@ let Budget = require('./app/models/budget.model')
 const dataRoutes = express.Router();
 
 const config = require('./app/config/db.config')
-
-const hideconfig = process.env.config;
 
 const mongoose = require('mongoose');
 
