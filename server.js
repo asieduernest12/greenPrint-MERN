@@ -2,8 +2,6 @@ const express = require('express');
 const app = express();
 
 const dotenv = require('dotenv');
-// const mongoInfo = process.env.MONGO_INFO;
-// let url = mongoInfo
 
 dotenv.config();
 
