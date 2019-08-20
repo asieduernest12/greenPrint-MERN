@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 
+const env = require('dotenv');
+
 const bodyParser = require('body-parser');
 const port = process.env.PORT || 4001;
 
@@ -14,6 +16,8 @@ let Budget = require('./app/models/budget.model')
 const dataRoutes = express.Router();
 
 const config = require('./app/config/db.config')
+
+const hideconfig = process.env.config;
 
 const mongoose = require('mongoose');
 
