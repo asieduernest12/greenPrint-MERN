@@ -4,6 +4,8 @@ const app = express();
 const bodyParser = require('body-parser');
 const port = process.env.PORT || 4001;
 
+const path = require('path');
+
 const cors = require('cors');
 
 let General = require('./app/models/general.model')
@@ -31,9 +33,15 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-if(process.env.NODE_ENV ==='production'){
-    app.use(express.static('client/build'));
-}
+// if(process.env.NODE_ENV ==='production'){
+//     app.use(express.static('client/build'));
+// }
+
+app.use(express.static(path.join(__dirname, "client", "build")))
+
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "client", "build", "index.html"));
+});
 
 
 dataRoutes.route('/addBudgetData').post((req, res) => {
