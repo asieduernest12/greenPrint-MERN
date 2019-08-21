@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "articleTitle": "Tax 101",
+        "articleDescription": "Learn about how taxes and make your taxes work for you",
+        "articleContent": [
+            {
+                "page": "1",
+                "header": "Introduction to taxes",
+                "image": "/taxslide1.png",
+                "writeUp": "Taxes can be complicated..."
+            },
+            {
+                "page": "2",
+                "header": "This is how it works",
+                "image": "/taxslide2.png",
+                "writeUp": "This an overview of somethings..."
+            },
+            {
+                "page": "3",
+                "header": "Some key concepts",
+                "image": "/slide3.png",
+                "writeUp": "some words you should know..."
+            },
+            {
+                "page": "4",
+                "header": "Conclusion on taxes",
+                "image": "/slide4.png",
+                "writeUp": "Hope this helps..."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "articleTitle": "Home Ownership 101",
+        "articleDescription": "Learn about home ownership and property",
+        "articleContent": [
+            {
+                "page": "1",
+                "header": "Introductiont to home ownership...",
+                "image": "/homeslide1.png",
+                "writeUp": "home ownership is great..."
+            },
+            {
+                "page": "2",
+                "header": "Core concepts",
+                "image": "/homeslide2.png",
+                "writeUp": "Here's some things you should know..."
+            },
+            {
+                "page": "3",
+                "header": "Practical guide",
+                "image": "/slide2.png",
+                "writeUp": "Some data on the subject..."
+            },
+            {
+                "page": "4",
+                "header": "Conclusion",
+                "image": "/slide1.png",
+                "writeUp": "good luck on your home hunting..."
+            }
+        ]
+    }
+]

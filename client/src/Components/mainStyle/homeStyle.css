@@ -1,0 +1,21 @@
+.homeContain{
+    font-family: 'Playfair Display', serif !important;
+    text-align: center !important;
+    /*height: 400px !important;*/
+}
+
+.homeButton{
+    background-color: #a366ff !important;
+    border: none !important;
+}
+
+.jumbotron{
+	/*background-image: url('./stockImgGP.png');*/
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.landing{
+    height: 200px;
+    margin: 50px;
+}

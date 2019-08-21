@@ -1,0 +1,16 @@
+.supportHeader{
+    text-align: center !important;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.contentHead{
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.buttons{
+    background-color: #a366ff !important;
+    border: none !important;
+    margin: 5px !important;
+}

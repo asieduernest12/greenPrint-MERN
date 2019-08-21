@@ -1,0 +1,20 @@
+.nav{
+    background-color:#a366ff !important;
+}
+
+.nav a{
+    color: white !important;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.drpdwn a{
+    color: black !important;
+}
+
+.float{
+    float: 'right' !important;
+}
+
+.drpdwnMenu{
+    visibility: hidden;
+}

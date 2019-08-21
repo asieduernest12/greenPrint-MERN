@@ -1,0 +1,22 @@
+.heroImgCalc{
+    height: 200px;
+    margin-top: 50px;
+}
+
+.calc-form-style{
+    margin-top: 0px;
+    height: 450px;
+    border-radius: 25px;
+    border-color: #a366ff !important;
+    font-family: 'Playfair Display', serif !important;
+
+}
+
+.buttonContain{
+    margin-top: 60px;
+}
+
+.slide-buttons{
+    background-color: #a366ff !important;
+    border:'none' !important;
+}

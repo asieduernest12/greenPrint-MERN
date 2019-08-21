@@ -1,0 +1,17 @@
+.form-main{
+    font-family: 'Playfair Display', serif !important;
+}
+
+.form-style{
+    font-family: 'Playfair Display', serif !important;
+}
+
+.connect-submit{
+    background-color: #a366ff !important;
+    border: none !important; 
+}
+
+.imageHero{
+    height: 200px;
+    margin: 50px;
+}
