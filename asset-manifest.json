@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/greenPrint-MERN/static/css/main.28222cc6.chunk.css",
+    "main.js": "/greenPrint-MERN/static/js/main.d784fc6d.chunk.js",
+    "main.js.map": "/greenPrint-MERN/static/js/main.d784fc6d.chunk.js.map",
+    "runtime~main.js": "/greenPrint-MERN/static/js/runtime~main.ee16cec3.js",
+    "runtime~main.js.map": "/greenPrint-MERN/static/js/runtime~main.ee16cec3.js.map",
+    "static/css/2.266e55a5.chunk.css": "/greenPrint-MERN/static/css/2.266e55a5.chunk.css",
+    "static/js/2.a02a0730.chunk.js": "/greenPrint-MERN/static/js/2.a02a0730.chunk.js",
+    "static/js/2.a02a0730.chunk.js.map": "/greenPrint-MERN/static/js/2.a02a0730.chunk.js.map",
+    "index.html": "/greenPrint-MERN/index.html",
+    "precache-manifest.99b352df57648583cc4f34cf7ceff2a6.js": "/greenPrint-MERN/precache-manifest.99b352df57648583cc4f34cf7ceff2a6.js",
+    "service-worker.js": "/greenPrint-MERN/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/greenPrint-MERN/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.28222cc6.chunk.css.map": "/greenPrint-MERN/static/css/main.28222cc6.chunk.css.map",
+    "static/media/Money-Pattern-l.jpg": "/greenPrint-MERN/static/media/Money-Pattern-l.8ece0eff.jpg",
+    "static/media/budget.png": "/greenPrint-MERN/static/media/budget.7e0c74b1.png",
+    "static/media/confirmation.png": "/greenPrint-MERN/static/media/confirmation.d6000c1c.png",
+    "static/media/greenprintLogo1.png": "/greenPrint-MERN/static/media/greenprintLogo1.6ef63aa7.png",
+    "static/media/homeslide1.png": "/greenPrint-MERN/static/media/homeslide1.ea2bd1b8.png",
+    "static/media/homeslide2.png": "/greenPrint-MERN/static/media/homeslide2.68ab9804.png",
+    "static/media/taxslide1.png": "/greenPrint-MERN/static/media/taxslide1.a2a15d0f.png",
+    "static/media/taxslide2.png": "/greenPrint-MERN/static/media/taxslide2.bc49d373.png"
+  }
+}
