@@ -6,6 +6,8 @@
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
     "concurrently": "^4.1.1",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.10",
     "react-dom": "^16.8.6",
@@ -20,8 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy":"http://localhost:4001",
-  
+  "proxy": "http://localhost:4001",
   "eslintConfig": {
     "extends": "react-app"
   },
