@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "proc-h": "concurrently \"npm run server\"",
     "build":"npm run server",
-    "heroku-postbuild": "npm run dev"
+    "heroku-postbuild": "npm run server"
   },
   "keywords": [],
   "author": "",
