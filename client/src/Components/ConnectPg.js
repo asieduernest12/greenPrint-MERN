@@ -98,7 +98,7 @@ export default class ConnectPg extends Component {
             goal : this.state.goal
         }
 
-        axios.post('http://localhost:4001/data/addGeneralData',newContact)
+        axios.post('/data/addGeneralData',newContact)
         .then(res => console.log(res.data))
         
         this.setState({
