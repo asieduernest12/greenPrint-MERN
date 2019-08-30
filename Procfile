@@ -1,1 +1,1 @@
-web:concurrently \"npm start\"
+web:npm run proc-h
