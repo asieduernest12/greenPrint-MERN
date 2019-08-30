@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4070c360543e914fb1369c68f5f0e4ba",
+    "revision": "c97cc6faee87d9a4c0ac381daec21e9c",
     "url": "/greenPrint-MERN/index.html"
   },
   {
-    "revision": "6c28304af8b0874bc06c",
+    "revision": "6d95e7100cbeefaa4dd5",
     "url": "/greenPrint-MERN/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "0dec881dcdaaab4dc5c8",
+    "revision": "be475a0a7389d2872c84",
     "url": "/greenPrint-MERN/static/css/main.28222cc6.chunk.css"
   },
   {
-    "revision": "6c28304af8b0874bc06c",
-    "url": "/greenPrint-MERN/static/js/2.a02a0730.chunk.js"
+    "revision": "6d95e7100cbeefaa4dd5",
+    "url": "/greenPrint-MERN/static/js/2.503ce563.chunk.js"
   },
   {
-    "revision": "0dec881dcdaaab4dc5c8",
-    "url": "/greenPrint-MERN/static/js/main.d784fc6d.chunk.js"
+    "revision": "be475a0a7389d2872c84",
+    "url": "/greenPrint-MERN/static/js/main.1b670031.chunk.js"
   },
   {
     "revision": "34f75b740eb54d1f0ab9",
