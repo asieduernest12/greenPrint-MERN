@@ -1,1 +1,1 @@
-web:npm run proc-h
+web:node server.js
