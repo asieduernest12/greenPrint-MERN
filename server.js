@@ -71,6 +71,6 @@ dataRoutes.route('/addGeneralData').post((req, res) => {
 app.use('/data', dataRoutes);
 
 app.listen(port, () => {
-    console.log(process.env);
+    // console.log(process.env);
     console.log(`server listening on port ${port}`)
 })
